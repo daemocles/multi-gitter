@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.50.2](https://github.com/lindell/multi-gitter/compare/v0.50.1...v0.50.2) (2024-03-01)
+
+
+### Dependencies
+
+* update golang.org/x/exp digest to 814bf88 ([a393e22](https://github.com/lindell/multi-gitter/commit/a393e2280ebdb737faf7de273ce9fce3ccaeaa0a))
+* update module github.com/google/go-github/v58 to v59 ([#465](https://github.com/lindell/multi-gitter/issues/465)) ([a572c31](https://github.com/lindell/multi-gitter/commit/a572c31247985e0c114faad9d21ffc49259a7be2))
+* update module github.com/xanzy/go-gitlab to v0.98.0 ([60e218d](https://github.com/lindell/multi-gitter/commit/60e218d75726b9c6b8a0a574c7c3b5de2f8035f0))
+* update module golang.org/x/oauth2 to v0.17.0 ([28f6a82](https://github.com/lindell/multi-gitter/commit/28f6a82be47bb286395078c28b626cb783cb9a93))
+
 ## [0.50.1](https://github.com/lindell/multi-gitter/compare/v0.50.0...v0.50.1) (2024-02-21)
 
 
